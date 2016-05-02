@@ -1,0 +1,11 @@
+{
+  "name": "denkorteflygtningeavis",
+  "version": "1.0.0",
+  "description": "Hvordan skriver Den Korte Avis om flygtninge i dag?",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth Larsen",
+  "license": "ISC"
+}
