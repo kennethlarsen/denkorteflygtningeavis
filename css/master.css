@@ -1,0 +1,47 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  background-color: #3D8EB9;
+
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+
+}
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.jumbotron {
+  background-color: #F8F8F8;
+}
+
+.jumbotron h3 {
+  color: black;
+}
+
+pre {
+  background-color: #E6DCDB;
+  color: #000C28;
+  white-space: pre-wrap;       /* CSS 3 */
+white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+white-space: -pre-wrap;      /* Opera 4-6 */
+white-space: -o-pre-wrap;    /* Opera 7 */
+word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+.jumbotron p {
+  color: #bbb;
+  font-size: 1.1em;
+}
+
+h2 {
+  color: #F8F8F8;
+}
